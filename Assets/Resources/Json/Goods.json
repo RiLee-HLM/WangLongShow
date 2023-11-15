@@ -1,0 +1,90 @@
+{
+  "1001": {
+    "ID": 1001,
+    "Name": "普通护甲",
+    "Type": 1,
+    "IconName": "Equipment/10012",
+    "SellPrice": 10,
+    "Introduce": "这是普通护甲"
+  },
+  "1002": {
+    "ID": 1002,
+    "Name": "普通刀",
+    "Type": 1,
+    "IconName": "Equipment/10011",
+    "SellPrice": 10,
+    "Introduce": "这是普通刀"
+  },
+  "1003": {
+    "ID": 1003,
+    "Name": "石刀",
+    "Type": 1,
+    "IconName": "Equipment/10021",
+    "SellPrice": 20,
+    "Introduce": "这是石刀"
+  },
+  "1004": {
+    "ID": 1004,
+    "Name": "石盔甲",
+    "Type": 1,
+    "IconName": "Equipment/10022",
+    "SellPrice": 20,
+    "Introduce": "这是石盔甲"
+  },
+  "2001": {
+    "ID": 2001,
+    "Name": "自然之力",
+    "Type": 2,
+    "IconName": "Materials/111",
+    "SellPrice": 100,
+    "Introduce": "这是自然之力"
+  },
+  "2002": {
+    "ID": 2002,
+    "Name": "火焰之力",
+    "Type": 2,
+    "IconName": "Materials/112",
+    "SellPrice": 110,
+    "Introduce": "这是火焰之力"
+  },
+  "2003": {
+    "ID": 2003,
+    "Name": "经验之力",
+    "Type": 2,
+    "IconName": "Materials/113",
+    "SellPrice": 150,
+    "Introduce": "这是经验之力"
+  },
+  "2004": {
+    "ID": 2004,
+    "Name": "海洋之力",
+    "Type": 2,
+    "IconName": "Materials/116",
+    "SellPrice": 140,
+    "Introduce": "这是海洋之力"
+  },
+  "3001": {
+    "ID": 3001,
+    "Name": "自然碎片",
+    "Type": 3,
+    "IconName": "Splinters/801003",
+    "SellPrice": 130,
+    "Introduce": "这是自然碎片"
+  },
+  "3002": {
+    "ID": 3002,
+    "Name": "暗黑碎片",
+    "Type": 3,
+    "IconName": "Splinters/801004",
+    "SellPrice": 180,
+    "Introduce": "这是暗黑碎片"
+  },
+  "3003": {
+    "ID": 3003,
+    "Name": "火焰碎片",
+    "Type": 3,
+    "IconName": "Splinters/801005",
+    "SellPrice": 200,
+    "Introduce": "这是火焰碎片"
+  }
+}
